@@ -121,6 +121,9 @@ Frontend development fundamentals:
 
 ## 🚀 **Getting Started**
 
+> ⚠️ **Important Virtual Environment Warning**  
+> Many projects in this repository require specific dependencies and libraries. Before running any project, it's **highly recommended** to create and activate a virtual environment to avoid conflicts with your system Python installation and ensure all dependencies are properly isolated.
+
 ### **Prerequisites**
 - Python 3.x installed on your system
 - Basic understanding of programming concepts (helpful but not required)
@@ -132,6 +135,15 @@ git clone https://github.com/chariszach/100day_Python_course.git
 
 # Navigate to the project directory
 cd 100day_Python_course
+
+# Create a virtual environment (recommended)
+python -m venv myenv
+
+# Activate the virtual environment
+# On Linux/Mac:
+source myenv/bin/activate
+# On Windows:
+# myenv\Scripts\activate
 
 # Install required dependencies (if any)
 pip install -r requirements.txt
