@@ -43,7 +43,7 @@ Object-oriented programming and advanced Python features:
 | **🍅 Pomodoro Timer** | Productivity apps, timer functionality | Tkinter, time management, GUI design |
 | **📊 Flash Card App** | Educational software, spaced repetition | Tkinter, data management, learning algorithms |
 
-### 🌐 **Intermediate+ Projects (APIs & Web Technologies)**
+### 🌐 **Intermediate+ Projects (APIs)**
 Real-world applications using external APIs and advanced libraries:
 
 | Project | Skills Learned | APIs & Libraries |
@@ -57,14 +57,6 @@ Real-world applications using external APIs and advanced libraries:
 | **🛰️ ISS Overhead Notifier** | Astronomical data, location services | ISS API, geolocation, scheduling |
 | **💭 Kanye Quotes App** | Quote generation, API calls | REST APIs, GUI development |
 | **🏃 Habit Tracker** | Personal productivity, data visualization | Pixel API, habit formation, analytics |
-
-### 🌍 **Web Development Section**
-Frontend development fundamentals:
-
-| Project | Skills Learned | Technologies |
-|---------|---------------|--------------|
-| **🎨 Personal Website** | HTML structure, CSS styling | HTML5, CSS3, responsive design |
-| **💼 Portfolio Site** | Professional web presence | Advanced CSS, layout techniques |
 
 ## 🎯 **What You'll Learn**
 
@@ -87,12 +79,11 @@ Frontend development fundamentals:
 - ✅ User interface design principles
 - ✅ Desktop application development
 
-### **API Integration & Web Technologies**
+### **API Integration**
 - ✅ RESTful API consumption
 - ✅ JSON data handling
 - ✅ HTTP requests and responses
 - ✅ Authentication and API keys
-- ✅ Web scraping techniques
 
 ### **Data Management**
 - ✅ File I/O operations
@@ -102,7 +93,6 @@ Frontend development fundamentals:
 
 ### **Real-World Applications**
 - ✅ Email automation
-- ✅ Web scraping and data extraction
 - ✅ Automated notifications
 - ✅ Game development
 - ✅ Productivity tools
@@ -115,8 +105,6 @@ Frontend development fundamentals:
   <img src="https://img.shields.io/badge/Turtle-00C851?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ## 🚀 **Getting Started**
@@ -183,16 +171,13 @@ python main-blackjack.py
 │   ├── 🛫 Flight Deals/
 │   ├── 📈 Stock News/
 │   └── ... (and more)
-└── 📂 Web Development/          # Web projects
-    ├── 🎨 CSS - MySite/
-    └── 💼 HTML - Personal Site/
 ```
 
 ## 🏆 **Key Learning Outcomes**
 
 By completing this course, you will be able to:
 
-- **Build Complete Applications**: Create fully functional desktop and web applications
+- **Build Complete Applications**: Create fully functional desktop applications
 - **Integrate External Services**: Work with APIs, databases, and third-party services
 - **Implement Best Practices**: Write clean, maintainable, and efficient code
 - **Solve Real Problems**: Develop solutions for everyday challenges using programming
